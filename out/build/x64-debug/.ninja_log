@@ -1,0 +1,27 @@
+# ninja log v6
+52	120	7873621300951312	CMakeFiles/KaesarEngine.dir/src/main.cpp.obj	3d16198a70babcf2
+21	529	7873620328561023	external/glfw/src/CMakeFiles/glfw.dir/init.c.obj	e5c03a252ac2fc90
+120	281	7873621301633802	KaesarEngine.exe	d53e2e89a41dd236
+15	539	7873620328492588	external/glfw/src/CMakeFiles/glfw.dir/context.c.obj	eac721267469c25c
+919	1675	7873620337528011	external/glfw/src/CMakeFiles/glfw.dir/win32_time.c.obj	5a4070489c9e61b0
+39	559	7873620328731731	external/glfw/src/CMakeFiles/glfw.dir/platform.c.obj	9f50b84c5294ee6d
+27	549	7873620328617150	external/glfw/src/CMakeFiles/glfw.dir/input.c.obj	38d2f4444dc31fb9
+540	948	7873620333735862	external/glfw/src/CMakeFiles/glfw.dir/null_init.c.obj	1a549d0f0e0d333b
+44	569	7873620328776693	external/glfw/src/CMakeFiles/glfw.dir/vulkan.c.obj	d07c586ec95642fd
+50	581	7873620328841206	external/glfw/src/CMakeFiles/glfw.dir/window.c.obj	f4ca2b6ed9dd031c
+33	918	7873620328667091	external/glfw/src/CMakeFiles/glfw.dir/monitor.c.obj	353f9b2ed959fd8
+60	928	7873620328940747	external/glfw/src/CMakeFiles/glfw.dir/egl_context.c.obj	f4ccfc86bdaabf16
+559	1441	7873620333935040	external/glfw/src/CMakeFiles/glfw.dir/null_window.c.obj	9baa81afc2a2f90d
+549	938	7873620333830451	external/glfw/src/CMakeFiles/glfw.dir/null_monitor.c.obj	e1513b577e9e1ff0
+530	958	7873620333641280	external/glfw/src/CMakeFiles/glfw.dir/osmesa_context.c.obj	1e24837cea9ba492
+571	1413	7873620334039609	external/glfw/src/CMakeFiles/glfw.dir/null_joystick.c.obj	669efe8a5e3f8d71
+928	1423	7873620337622759	external/glfw/src/CMakeFiles/glfw.dir/win32_thread.c.obj	3b87a3a468d3d912
+582	1432	7873620334154569	external/glfw/src/CMakeFiles/glfw.dir/win32_module.c.obj	282415a27fc50699
+1413	1811	7873620342475554	external/glfw/src/CMakeFiles/glfw.dir/win32_window.c.obj	7e3f2504c95cf463
+948	1446	7873620337827136	external/glfw/src/CMakeFiles/glfw.dir/win32_joystick.c.obj	c05b753264d4efda
+938	1670	7873620337727433	external/glfw/src/CMakeFiles/glfw.dir/win32_init.c.obj	cfcabc4c46c3df3e
+958	1685	7873620337921865	external/glfw/src/CMakeFiles/glfw.dir/win32_monitor.c.obj	233f9be5b1a18332
+1423	1828	7873620342570164	external/glfw/src/CMakeFiles/glfw.dir/wgl_context.c.obj	df8eb5104f2cf602
+1828	1885	7873620346626785	external/glfw/src/glfw3.lib	e59779f58050986c
+17	606	7873625881746481	CMakeFiles/KaesarEngine.dir/src/main.cpp.obj	3d16198a70babcf2
+607	852	7873625887642878	KaesarEngine.exe	d53e2e89a41dd236
