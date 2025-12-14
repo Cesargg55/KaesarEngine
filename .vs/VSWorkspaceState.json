@@ -14,8 +14,10 @@
   "ExpandedNodes": [
     "",
     "\\external",
+    "\\external\\glad",
+    "\\external\\glad\\src",
     "\\src"
   ],
-  "SelectedNode": "\\src\\main.cpp",
+  "SelectedNode": "\\src\\KaesarEngine.h",
   "PreviewInSolutionExplorer": false
 }
